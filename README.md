@@ -6,11 +6,14 @@ Compilation de shader, réalisé sur ShaderToy (WebGL 2.0)
 [L'OpenGL Shading Language](https://fr.wikipedia.org/wiki/OpenGL_Shading_Language) est un language de programmation utilisé par l'API OpenGL afin de tracer les vertex sur l'écran. Je connais actuellement deux méthodes pour lire ces fichiers (il existe certainement d'autres mais je ne suis pas assez renseigné) :
 1. Sur **VSCode**, installez l'extension [Shader Toy](https://marketplace.visualstudio.com/items?itemName=stevensona.shader-toy). Puis, effectuez un click droit sur votre éditeur et sélectionnez l'option : *Shader Toy: Show GLSL Preview*. Une nouvelle fenêtre s'ouvre, vous montrant votre shader. Le shader change automatiquement lorsque vous changez du code.
 2. Il est possible d'utiliser [Shadertoy](https://www.shadertoy.com/), un site web app qui permet de visualiser votre shader. Pour enregistrer votre shader, il faut créer un compte.
+3. Pour chaque shader je crée une version HTML. Il suffit de l'installer et de l'ouvrir avec votre navigateur pour observer le shader.
 
 
 ## Mes shaders
 
 - [*~/Rubik's Cube*](https://github.com/drogomatteo/ShaderDIY/tree/main/RubiksCube) : Un simple Rubik's cube qui tourne, avec gestion de lumière directionnelle.
+
+- [*~/SolarSys*](https://github.com/drogomatteo/ShaderDIY/tree/main/SolarSys) : Notre système solaire, simplifié. Possibilité de se balader dans la galaxie avec la souris.
 
 ## Pour aller plus loin...
 
