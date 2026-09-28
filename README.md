@@ -15,9 +15,11 @@ Compilation de shader, réalisé sur ShaderToy (WebGL 2.0)
 
 - [*~/SolarSys*](https://github.com/drogomatteo/ShaderDIY/tree/main/SolarSys) : Notre système solaire, simplifié. Possibilité de se balader dans la galaxie avec la souris.
 
+- [*~/InfiniteBox*](https://github.com/drogomatteo/ShaderDIY/tree/main/InfiniteBox) : Une scène généré à l'infini avec une boite. Inspiration : [An introduction to Raymarching](https://youtu.be/khblXafu7iA?si=TpIp4yjIA5VwHbGv)
+
 ## Pour aller plus loin...
 
-- [Inigo Quilez](https://iquilezles.org/) a travaillé (et travaille toujours) dans le domaine de l'informatique graphiste. Il a crée ce site internet dans le but de regrouper beaucoup d'outils mathémathiques utiles dans le domainte de l'infographie.
+- [Inigo Quilez](https://iquilezles.org/) a travaillé (et travaille toujours) dans le domaine de l'informatique graphiste. Il a crée ce site internet dans le but de regrouper beaucoup d'outils mathémathiques utiles dans le domaine de l'infographie.
 - [kishimisu](https://www.kishimisu.art/) est un créateur d'animations procédurales. Il possède une chaine youtube, où il explique le *raymarching* et une simple introduction dans la création de shader.
 - [Sum And Product](http://www.youtube.com/@sumandproduct) est une petite chaine youtube allemande qui parle de géométrie dans l'espace, mais pas que. 
 - [Sebastian Lague](http://www.youtube.com/@SebastianLague) tente de programmer tout et n'importe quoi, allant de la simulation d'un fluide, à des algorithmes de chemin le plus court (A*, Dijkstra) et l'analyse spectrale du son. une grande majorité de ses codes qu'il réalise sont sur son [GitHub](https://github.com/SebLague)
