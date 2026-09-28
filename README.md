@@ -15,7 +15,9 @@ Compilation de shader, réalisé sur ShaderToy (WebGL 2.0)
 
 - [*~/SolarSys*](https://github.com/drogomatteo/ShaderDIY/tree/main/SolarSys) : Notre système solaire, simplifié. Possibilité de se balader dans la galaxie avec la souris.
 
-- [*~/InfiniteBox*](https://github.com/drogomatteo/ShaderDIY/tree/main/InfiniteBox) : Une scène généré à l'infini avec une boite. Inspiration : [An introduction to Raymarching](https://youtu.be/khblXafu7iA?si=TpIp4yjIA5VwHbGv)
+- [*~/InfiniteBox*](https://github.com/drogomatteo/ShaderDIY/tree/main/InfiniteBox) : Une scène générée à l'infini avec une boite. Inspiration : [An introduction to Raymarching](https://youtu.be/khblXafu7iA?si=TpIp4yjIA5VwHbGv)
+
+- [*~/Nightime*](https://github.com/drogomatteo/ShaderDIY/tree/main/Nightime) : Une scène générée procéduralement. Inspiration : [An introduction to Shader Art](https://youtu.be/f4s1h2YETNY?si=KeBHw-I3-HhfKS43)
 
 ## Pour aller plus loin...
 
