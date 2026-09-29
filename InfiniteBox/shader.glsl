@@ -88,7 +88,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
 
     float t = rayMarch(ro, rd);
 
-    col = vec3(palette((t)/100.0));
+    col = palette((t)/100.0);
 
     fragColor = vec4(col, 1.0);
 }
