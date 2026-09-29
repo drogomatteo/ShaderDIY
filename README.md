@@ -21,6 +21,8 @@ Compilation de shader, réalisé avec Shader Toy (extension VSCode, WebGL 2.0)
 
 - [*~/Vortex*](https://github.com/drogomatteo/ShaderDIY/tree/main/Vortex) : Un vortex de couleur rouge-noir, le tout dans un fond blanc.
 
+- [*~/MengerSponge*](https://github.com/drogomatteo/ShaderDIY/tree/main/Vortex) : [L'éponge de Menger](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.wikipedia.org/wiki/%25C3%2589ponge_de_Menger&ved=2ahUKEwim0JHqwZOXAxVdUaQEHVHMKrEQFnoECCMQAQ&usg=AOvVaw1YeuV0tlMjG-3aCiaahuIg) est un solide fractal. Je l'ai utilisé pour réaliser ce shader. Inspiration : [Pedro Schneider](https://github.com/pedrotrschneider/shader-fractals/blob/main/3D/MengerSponge.glsl) 
+
 ## Pour aller plus loin...
 
 - [Inigo Quilez](https://iquilezles.org/) a travaillé (et travaille toujours) dans le domaine de l'informatique graphiste. Il a crée ce site internet dans le but de regrouper beaucoup d'outils mathémathiques utiles dans le domaine de l'infographie.
