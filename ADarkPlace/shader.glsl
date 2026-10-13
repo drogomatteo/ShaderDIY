@@ -114,14 +114,14 @@ float rayMarch( vec3 ro , vec3 rd ) {
         t += d;
         if (d < 0.001 || t > 15.) return i;
     }
+    return 255.;
 }
 
 void main() {
     vec3 color = vec3(0.0);
-    float i = 4.0;
     vec2 uv = (gl_FragCoord.xy * 2.0 - u_resolution.xy) / u_resolution.y;
     vec2 ms = (u_mouse.xy *2.0 - u_resolution.xy)/u_resolution.y;
-    vec3 ro = vec3(ms/3., -5.0);
+    vec3 ro = vec3(normalize(ms)*sqrt(abs(ms/8.)), -5.0);
     vec3 rd = normalize(vec3(uv, 1.0));
 
     float ray = rayMarch(ro, rd);
